@@ -1,0 +1,26 @@
+
+# Student Marks Management System
+
+## About
+A beginner-level Python project that calculates student marks and grades.
+
+## Features
+- Enter student name
+- Enter subject names and marks
+- Calculate total marks
+- Calculate average percentage
+- Automatically assign grades
+
+## Python Concepts Used
+- Variables
+- While Loops
+- If, Elif and Else
+- Break Statements
+- User Input
+- Basic Calculations
+
+## Language
+Python 3
+
+## Author
+Abdul Rafay
